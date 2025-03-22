@@ -1,0 +1,2 @@
+/home/ws/stm/catkin_ws/devel/./cmake.lock 1
+/home/ws/Octo_crawler/src/flow_tank/catkin_ws/devel/./cmake.lock 2

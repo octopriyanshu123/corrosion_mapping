@@ -1,0 +1,8 @@
+prefix=/home/ws/Octo_crawler/src/flow_tank/catkin_ws/install
+
+Name: stm_interface
+Description: Description of stm_interface
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

@@ -1,0 +1,12 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _stm_interface_generate_messages_check_deps_RelayControl
+[ 14%] Built target stm_interface_generate_messages_cpp
+[ 71%] Built target stm_interface_generate_messages_py
+[ 71%] Built target stm_interface_generate_messages_eus
+[100%] Built target stm_interface_generate_messages_nodejs
+[100%] Built target stm_interface_generate_messages_lisp
+[100%] Built target stm_interface_generate_messages
